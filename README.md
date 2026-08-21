@@ -22,8 +22,8 @@
 
 <p align="center">
   <!-- 3. Overall GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asghar0007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=asghar0007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px" />
   
   <!-- 4. Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asghar0007&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asghar0007&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
 </p>
