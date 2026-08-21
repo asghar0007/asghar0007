@@ -74,7 +74,7 @@ I am a seasoned **DevOps & Cloud Engineer** with **8+ years of experience** desi
 
 <p align="center">
   <!-- Overall GitHub Stats Card (Using working stats-extended domain) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=asghar0007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=asghar0007&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195px" />
   
   <!-- Most Used Languages Card (Using working stats-extended domain) -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asghar0007&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
